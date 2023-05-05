@@ -1,0 +1,5 @@
+name: BlockCode-Warps
+author: QLN
+version: 1.0
+main: net.blockcode.Main
+api-version: 1.13

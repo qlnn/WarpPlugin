@@ -1,0 +1,19 @@
+gui:
+  title: "&e&lWarpy"
+  size: 5
+messages:
+  permission: "&cNie posiadasz permisji do tego warpu!"
+  success: "&aZostales przeteleportowany na warp!"
+warps:
+  pvp:
+    material: DIAMOND
+    title: "&cStrefa PVP"
+    slot: 20
+    lore:
+      - "Strefa"
+      - "Pvp"
+    x: 50
+    y: 50
+    z: 50
+    world: "world"
+    permission: "warp.pvp"
